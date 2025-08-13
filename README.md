@@ -4,32 +4,46 @@
 
 Meu nome é Graziela Barros, tenho 32 anos e sou natural de Fortaleza (CE). Sou formada como técnica em Informática e graduada em Análise e Desenvolvimento, com pós-graduação em Análise de Dados.
 
-Sou apaixonada por tecnologia e educação. Compartilho meus conhecimentos em informática voltados para concursos públicos por meio do meu canal no YouTube "[Graziela Barros](https://www.youtube.com/watch?v=slHx426d3AA&t=12s&ab_channel=GrazielaBarros)" e também no Instagram, no perfil "[profgrazielabarros](https://www.instagram.com/profgrazielabarros/)" , ajudando milhares de alunos a se prepararem de forma prática e objetiva.
+Sou apaixonada por tecnologia e educação. Compartilho meus conhecimentos em informática voltados para concursos públicos por meio do meu canal no YouTube "[Graziela Barros](https://www.youtube.com/watch?v=slHx426d3AA&t=12s&ab_channel=GrazielaBarros)" e também no Instagram, no perfil "[profgrazielabarros](https://www.instagram.com/profgrazielabarros/)", ajudando milhares de alunos a se prepararem de forma prática e objetiva.
 
+<!-- Badges YouTube e GitHub lado a lado da esquerda para direita -->
 <p align="left">
-    <a href="https://www.youtube.com/watch?v=slHx426d3AA&t=12s&ab_channel=GrazielaBarros">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC603GYBwejqUDmCZ6bSGb2w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/watch?v=slHx426d3AA&t=12s&ab_channel=GrazielaBarros">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC603GYBwejqUDmCZ6bSGb2w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-   <a href="https://github.com/graziela-barros/meu-repo">
+  <!-- Inscreva-se no YouTube (vermelho) -->
+  <a href="https://www.youtube.com/watch?v=slHx426d3AA&t=12s&ab_channel=GrazielaBarros">
     <img 
-        alt="Estrelas do repositório" 
-        title="Estrelas no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/graziela-barros/meu-repo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+      alt="Inscreva-se no YouTube" 
+      title="Inscreva-se no meu canal" 
+      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC603GYBwejqUDmCZ6bSGb2w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=%23CE4630"
     />
-</a>
+  </a>
 
-    
+  <!-- Visualizações do YouTube (amarelo) -->
+  <a href="https://www.youtube.com/watch?v=slHx426d3AA&t=12s&ab_channel=GrazielaBarros">
+    <img 
+      alt="Visualizações no YouTube" 
+      title="Visualizações no YouTube" 
+      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC603GYBwejqUDmCZ6bSGb2w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=%23C79600&label=Visualiza%C3%A7%C3%B5es"
+    />
+  </a>
+
+  <!-- Estrelas totais dos repositórios (verde) -->
+  <a href="https://github.com/graziela-barros?tab=repositories">
+    <img
+      alt="Total Stars no GitHub"
+      title="Total de estrelas nos repositórios"
+      src="https://img.shields.io/github/stars/graziela-barros?style=for-the-badge&color=2ea043&labelColor=2b6a30&logo=github&label=Estrelas"
+    />
+  </a>
+</p>
+
+<!-- GitHub Stats (opcional) -->
+<p align="left">
+  <img
+    alt="GitHub Stats"
+    title="Resumo do GitHub"
+    height="150"
+    src="https://github-readme-stats.vercel.app/api?username=graziela-barros&show_icons=true&rank_icon=github&title_color=2ea043&icon_color=2ea043"
+  />
 </p>
 
 ---
@@ -128,7 +142,3 @@ Sou apaixonada por tecnologia e educação. Compartilho meus conhecimentos em in
 
 <br/>
 <br/>
-
-
----
-
