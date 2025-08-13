@@ -21,13 +21,14 @@ Sou apaixonada por tecnologia e educação. Compartilho meus conhecimentos em in
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC603GYBwejqUDmCZ6bSGb2w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/graziela-barros?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/graziela-barros?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+   <a href="https://github.com/graziela-barros/meu-repo">
+    <img 
+        alt="Estrelas do repositório" 
+        title="Estrelas no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/graziela-barros/meu-repo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+</a>
+
     
 </p>
 
